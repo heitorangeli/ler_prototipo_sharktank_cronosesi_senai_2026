@@ -1,1 +1,1 @@
-# ler_prototipo_sharktank_cronosesi_senai_2026
+# Protótipo do site CronoSESI, produzido para a matéria de Levantamento de requisitos do curso de desenvolvimento de sistemas

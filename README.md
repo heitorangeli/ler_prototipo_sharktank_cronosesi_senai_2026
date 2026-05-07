@@ -1,0 +1,1 @@
+# ler_prototipo_sharktank_cronosesi_senai_2026
